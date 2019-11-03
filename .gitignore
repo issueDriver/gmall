@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+gmall-parent/gmall-parent.iml
+gmall-parent/src/
+gmall.iml
+gmall-user/src/main/resources/application.properties
+
