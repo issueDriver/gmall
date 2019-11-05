@@ -3,6 +3,11 @@
 gmall-parent/gmall-parent.iml
 gmall-parent/src/
 gmall.iml
-gmall-user/src/main/resources/application.properties
+#忽略所有的配置文件
+
+gmall-user-web/src/main/resources/application.properties
+gmall-user-service/src/main/resources/application.properties
+
+
 
 
